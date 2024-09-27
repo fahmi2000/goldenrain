@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220038311089",
+    "project_id": "map-salmon",
+    "storage_bucket": "map-salmon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220038311089:android:64a8997b3ae05eeaa58690",
+        "android_client_info": {
+          "package_name": "com.example.gr4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220038311089-q1i8ct0nr0e7q76q388gmbcttlr0cje3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfwc4uZgJc5SoxiAOePxnuuXsNS9rFjsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220038311089-q1i8ct0nr0e7q76q388gmbcttlr0cje3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
